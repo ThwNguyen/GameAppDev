@@ -1,0 +1,4386 @@
+fileFormatVersion: 2
+guid: dc72dd2964f3f324ba07f6f969df3657
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b658dfc0b6304774782584f371b3dd64
+      internalID: 563067136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fabaa905ff3c4385f6346a7e6fab3
+      internalID: -107744961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad4250c0500fa48ba87a9258017c98
+      internalID: 219497065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1465a9a66f4ed01488af8a4b7ad34f8e
+      internalID: -1471403092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf71fdd1d465f7448f322cff8075783
+      internalID: -1084776398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249f14809ce502469da9271e5fc0d06
+      internalID: 66157422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e0e648d732204596c231f6d820b2d
+      internalID: 1370915358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8939eac970ccd4789ca809cfd9e8a4
+      internalID: -392134646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f4851cd6c6d9a49b92d13f20e495e4
+      internalID: 967543352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70090d3108be9554da3a5c6dbbdf569b
+      internalID: -999369551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0aed01db1bb94c8f9ee34b62404aa
+      internalID: -1067982091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443228a93f1712408f4cbc89fa90c9f
+      internalID: -816238302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60248e612e3e08c46b5f3f33a3aa4dca
+      internalID: -1634752328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c919c64d74e32e47865989c5db3a50c
+      internalID: -1189708149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e977cd3f6d5844a985fe8357c356fc
+      internalID: -293822443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1bf87803f50f43a6dfb68ce2b0575
+      internalID: -902846222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04c454ca46fea47a8e034e892fdd0a
+      internalID: -1710149324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f1419f2d0ead4d8172ccd772c4ee4
+      internalID: 1137025716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4212684fd7f94ab047e7c0e8c2b2c
+      internalID: -277388294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1377152772f1f48aafb24c1cfcf561
+      internalID: -1401275958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71b5d81f7a86434b9a3a860b44e093c
+      internalID: -1673958726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ffaa90cf3c9dc4d9eb6f618d438d63
+      internalID: -1616772503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff1620cfd3e7844803844ce415e62c
+      internalID: -628154505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37d1de7c6c11e418c5d4295b2b98c2
+      internalID: 1124320063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c3463a01d0b84caf3f1aa82849556
+      internalID: 1812108279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25bc7a85beab24798ca880cc083a3c
+      internalID: -1995202482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874077e1045d2e14788d5112786d027a
+      internalID: -1661297819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65318390937463a418e3059baae08468
+      internalID: 479095676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42faebd03bb734b829c5eeea77703e
+      internalID: -1402280823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662c0107d3541240b0de3408719931b
+      internalID: -637037402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6fe982aeb5054db87a4e4e7cba9f0
+      internalID: 259953181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985625f8337edc24aafdefde1a068492
+      internalID: 2086543322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ba8dae589ad7b40aba5f5a4f69422c
+      internalID: -1928697591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee2e8eccacfdb4eaf636b1091f92ba
+      internalID: 1029453713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164c7a60131f524b92b459547e8c1f4
+      internalID: -1488588212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a66fcc6bcf63aa4f9afa146236b0639
+      internalID: 2105994379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442bdbef9b905d4493b51d27f499f66
+      internalID: 725660982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9851fcbdf74b98b479dc9638d3c94913
+      internalID: -282003119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abf9fafaab9e549a03adf0252f7778
+      internalID: -229638441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e51d5bc1b93d48804cfa4d0664518
+      internalID: 765261282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d803f1bfed6c49ba2e2b0dda3bf08
+      internalID: -934922441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a824ea28d446ee4b879eb07a37cb73a
+      internalID: -1159196446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae641614e6b62e4ea218be129271845
+      internalID: -948613307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a93ba6c3b12e4baa3446b7dec73a4
+      internalID: -2107735963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bd2d11b47b0b04cb8d1b1c956daf7d
+      internalID: -881857169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd3590e3e765d46ac2d30298637303
+      internalID: 2086171358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08280d330bf9614b93449693c83638c
+      internalID: 1697155540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eec8afc2f806d44a3555fe1665f758
+      internalID: -1459493764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ccd32d33d5cd41b3bc337b5153fec
+      internalID: 197524590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9e12f6aace2440ae6497140bdce0e
+      internalID: -838004027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e1a1f045066274694abad9039f9214
+      internalID: -1719693461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb21aa9dc3b3344a9f0cc961668a01a
+      internalID: -1480926415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58343fe25363644419b6a10ea8ff5268
+      internalID: 290725351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc5673a0ebe1d45a81a8f334dc1c12
+      internalID: -1305805216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc21c66cc5213e40a9cf1456871dfd3
+      internalID: -1825893590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aeeec029084fb4b9683b2e9118fe60
+      internalID: -2046598110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995ceef48e5813749bcb73f1f28e89d0
+      internalID: -697817774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93878503f71314eba09f5637f148a0
+      internalID: -1215222690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d3252facc5b0e4bb61e9828fb95130
+      internalID: 627730369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968636471c0b65b4787000aa9373990a
+      internalID: 2068925071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1819a051252764a8d598f3430cf5ca
+      internalID: 2114217991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c7be1d180ab0b43bd24683ff194fde
+      internalID: -1400382725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce19fbab0327f4ea666bf8b12eeae6
+      internalID: 1585529688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd4ce1875e3e24584616e0fbbbe820
+      internalID: 1502715696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2336d301a60bd9c4996debcd0062ff3b
+      internalID: 1636193999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685cf5974fa5bc4498a9198956383343
+      internalID: -1345922250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba04337f94c0248b0c1063635c016a
+      internalID: 1164090932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a07d9b948873b4ca91acf9d5c8cebb
+      internalID: 262621653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d8c02800ae9b4eb1ab7b759d9524b
+      internalID: 283026123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e761492a1faed4b9403f77dd90de0a
+      internalID: 1234695760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195e2906e01a654c8141a376ade46a9
+      internalID: 1815600977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94221eccca83fa43b2e74d6470050c1
+      internalID: -473265127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edea7ee5f3a9f7446a8175e8d65c7bad
+      internalID: -1383658186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a452a6e89cd24b8fe0bf5eb563a7f
+      internalID: 637630348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a84b3f2ef73143b321b03c42af60b
+      internalID: 1905006455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02019e6447ee14ba94965808fcdc37
+      internalID: 1103524146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840bc4a586021140b5d65b268a2f0f8
+      internalID: -673531043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f57e2e86fd7b84f86d5f372ea913e1
+      internalID: -1964908310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333440c8dc4e4da47b73aac2ac7dc5c6
+      internalID: 157091179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302199f278284042a01e36f1d913d0f
+      internalID: 727646065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa78a807ed3538b4ca0553dcaeec7dd3
+      internalID: -948793097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10ed41d5efb7d4a91a0e1e777e83af
+      internalID: 870844933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda0879e566cf7740a8348580237b03c
+      internalID: -1775141073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b05315eb93d8549810416f886df199
+      internalID: -1888784558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2efe0d253b4842b14ab0cd8eae097
+      internalID: -1881612797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2438b7f28868c848959b2c085fa4487
+      internalID: -1335225973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d169b866de9c14c9ca896b0c9d80a7
+      internalID: -143032902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6bd235aa6e84468ed43505bbbba45
+      internalID: 493741099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19783cdea002e2240975aa6b796fa0dd
+      internalID: 1743026644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c7a02b82904b4db0f567bf9d4360c
+      internalID: 514599892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2af912880f1d4faa5ff5ffce35309
+      internalID: -1254716469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a584b4e9637724f929eee61a57f17e
+      internalID: -1622586958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9f78cf8e0c30d4fade1e47f514ebda
+      internalID: 1377178260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aec037798c1a149b34fd133bfc554c
+      internalID: 1271012206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a8a6d2f5173c4d91acdd2b2ac20c6
+      internalID: 671871098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085418a35cc9b347a81b1cc20403d7c
+      internalID: 1490157059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937c32ce477a0147b37844cd34f28c6
+      internalID: -1080399313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9171aeb5a22b74583008f127d58527
+      internalID: -1538629166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34dd7f96d6f6f4fb90917a25079dca
+      internalID: 2127248270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e9df82df715c448fb2f836e296ae3
+      internalID: 1644310359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5cf65d4073e6d4394165d007032002
+      internalID: 570090457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd7ce817a284c4386e4c143d50faa6
+      internalID: 642041780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6e8e3c0211b6498acd924058bff1e
+      internalID: 1763611836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9f4a06f6f78446974b98e696e6da5
+      internalID: -195122135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae377f4740bc1429af0c9a778207c8
+      internalID: -543921633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec12dbf7058b324cbeb170390be9138
+      internalID: -952441763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96807729e8c0d4281886ff87d0a2be
+      internalID: -1261840781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e387e13233104baad75e869e91ccc
+      internalID: -1847913846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28c1b5a32b04d741890cc82adeddc49
+      internalID: -81543433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f10a42f861d1647bbdd84f1792eeac
+      internalID: -727854597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a5cac0953d264fa7495ef87dfccb2
+      internalID: -671240022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25bb2504261f4d4cbed62f73f728511
+      internalID: -1232764659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba24d4885072546ac99c7d1282d1cd
+      internalID: -42327104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b09d8bf77e7a943b495f0529413870
+      internalID: -2109851187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23654ca6ba29648b7e447665b55cca
+      internalID: 399471878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddeb50a536bfff4d8d76b2bacc56ca8
+      internalID: -1752840974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f33d1b8207f8946b0ff659f541cf2e
+      internalID: -2079929888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7ce0de2c33d944b223f7af9c8329c
+      internalID: -87723918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183f61d54014d04cb13c57ca45f77f1
+      internalID: 620044222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b538786936f8345a3ca8416d6dcf0e
+      internalID: 163803268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7637062984d85649ba3b742be8853c0
+      internalID: 1374903315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c131afc76b8a2f4aac0140fac8048bb
+      internalID: -335540319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f74abd512778d40b948c931554de13
+      internalID: -1721295218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde287155407c74590129630e51e5b2
+      internalID: 1244949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e762c63220cd5a4c9efafe0fb870d3c
+      internalID: 587058693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a974feb4abbe314e865dd12911a4176
+      internalID: -1270099303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9fe3130e6f1746a2a82099619a3be
+      internalID: 1567838990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fe410f2a5df8141817fdff7ea3ca94
+      internalID: 1159894410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bef7515f4462b4d97d69f7620989ec
+      internalID: 1490088579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614aa46830ee5a40838a25699628e67
+      internalID: -747807914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ce38af04bbdce48ad7150796236d74
+      internalID: 993047595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631fbe7d54afd1344bc6556cc6209e56
+      internalID: -1308746091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a2d8d80c666741baba6267bc9d2fa
+      internalID: -1628759309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a09b20a8d6c645a0dcc9fc5972c2d
+      internalID: 1990219958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc06271aed73ca4796a6e67821f13ee
+      internalID: 452069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e55d6e5089314cbcac21ec0f36f94
+      internalID: -482754907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41cd5c84baa81044b3bf0e5f67d09df
+      internalID: -294152680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca7d058603f9d4eb265ce0159280bd
+      internalID: -1966607491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd330f31fe922f459e7cbccebe82e66
+      internalID: -780512081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38fd2c71385e544b172fa631f03055
+      internalID: -1075842502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef1198fb235c74aa049166080e4efa
+      internalID: 2079590321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272570d61f99334e8ebcd0e3c46f5d1
+      internalID: 908712158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16a3e0fa601894bb7c3b9c998dba71
+      internalID: -408423059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3fbcc61ebc1b24397bb9d6b2349889
+      internalID: 843826731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b314f2f728c4e449b8a8ae101cecdd
+      internalID: 1690310922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea2905c2ae2bb4c93159c017d190b3
+      internalID: 1407675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9723eb50340327b44813b6ea847a3d2b
+      internalID: -1576629463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328e51eecc9934c4d82cc3682f0b5efd
+      internalID: 1771291814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff9dbae819f4643a213566e63b26d5
+      internalID: 729216189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796dac8cfd3cb94e9dfb27f88656fb7
+      internalID: 1698182231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4dbd01a3516204c9f96df899eec6a0
+      internalID: -6622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821df871ff370f145a58e52861544896
+      internalID: -1201734465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f74f6a7f658da40891ff1e29b370a3
+      internalID: 599489854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5c58f30b444c42a0aaf447a131513
+      internalID: -1713398606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a7df51ddc4ba4b9fd9838cd4e1d10
+      internalID: 1580394987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1c662f4073fe49a171d1666a80428
+      internalID: -2009733667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d387f0e0fa8b409527a9354aad106
+      internalID: -1944926836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2872dfe956aa5744ace3d82e8327404
+      internalID: -2116299215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aae9b45b79e314d9d5fdd5adb9358f
+      internalID: 1806546265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf8ae9c3e8156349b87b9b519b55103
+      internalID: -1336046401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb228909564414697b0d9a5b28bc0c
+      internalID: -29059744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de16c4db26b5c4f83c4b19704eae27
+      internalID: -519378039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b3166112ccf6459fd353d83f9455f
+      internalID: -2063199239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45335e2ebfe734ea833d684dbbd220
+      internalID: -95498953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2762deca4839f3468dc51cdf62268e9
+      internalID: -605043313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb858f8af3031094e937fe9b0c7d0b60
+      internalID: -2000300727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cba7e964bb474ba01952348ffbcf3
+      internalID: 392318516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6113a24477ecb24cbaca7bf42f305c5
+      internalID: 1783046316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7668e078cb1534391ce3c277d8d02e
+      internalID: 627109195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632d03ab1aa6684996371426c67ca39
+      internalID: -579040939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7ab3e07951a9408dfba8922a074ff
+      internalID: -539870208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e13f8db2aa7df041a00011087ba79c1
+      internalID: -1880274879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd8a49f4cd8b124a90d0ac46dae03da
+      internalID: 1087455657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2cc8ce1f92474d8ca09eb8e27eca0
+      internalID: -769082409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b3a21c66d157742b3cbf3a5433d74d
+      internalID: 1309475473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2824584300f9954092a274774954866
+      internalID: -1887305927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658df60e278b87440b98e518c9c61fcd
+      internalID: -1636967646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3096537db02a143af2c023ed8993e8
+      internalID: -459064755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79c973ac3abbb4493f4bcf738dfcc0
+      internalID: -1916976801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb8260b45b79f241b0691b3171ac983
+      internalID: 1551945405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178fd1a8e53c24a4082132f4b56b7a42
+      internalID: 1593765711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c905a98992f4cb043b14d20b5c448d95
+      internalID: 726137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe72842f8aa924980d1a85a9f2d584
+      internalID: -510519944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c860cd5d32790642ad145738750c584
+      internalID: 1953829144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422225f23c9adb439016078420357c9
+      internalID: -475284727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72993f3a94b2ad94ea3217ba590364bc
+      internalID: -1803362353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ef6d626262cd42a4594c3da0b84ab
+      internalID: -820280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98054e266129b0d48b3b83b6a3dda129
+      internalID: 424304689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4323fcf145240ee45b448c8d9558ebdd
+      internalID: 279501624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e48b79b23ae754d9096c7e6b8a4871
+      internalID: 719547121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c847f8a8794364d885624395212fb0
+      internalID: 114366492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0227dd4a3c95147b07f1e3aae0b051
+      internalID: 7392991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f55cc0f97108a46a4faaa842bdfcc9
+      internalID: -1023104480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spearwoman-Sheet_0: 563067136
+      Spearwoman-Sheet_1: -107744961
+      Spearwoman-Sheet_10: -1067982091
+      Spearwoman-Sheet_100: 570090457
+      Spearwoman-Sheet_101: 642041780
+      Spearwoman-Sheet_102: 1763611836
+      Spearwoman-Sheet_103: -195122135
+      Spearwoman-Sheet_104: -543921633
+      Spearwoman-Sheet_105: -952441763
+      Spearwoman-Sheet_106: -1261840781
+      Spearwoman-Sheet_107: -1847913846
+      Spearwoman-Sheet_108: -81543433
+      Spearwoman-Sheet_109: -727854597
+      Spearwoman-Sheet_11: -816238302
+      Spearwoman-Sheet_110: -671240022
+      Spearwoman-Sheet_111: -1232764659
+      Spearwoman-Sheet_112: -42327104
+      Spearwoman-Sheet_113: -2109851187
+      Spearwoman-Sheet_114: 399471878
+      Spearwoman-Sheet_115: -1752840974
+      Spearwoman-Sheet_116: -2079929888
+      Spearwoman-Sheet_117: -87723918
+      Spearwoman-Sheet_118: 620044222
+      Spearwoman-Sheet_119: 163803268
+      Spearwoman-Sheet_12: -1634752328
+      Spearwoman-Sheet_120: 1374903315
+      Spearwoman-Sheet_121: -335540319
+      Spearwoman-Sheet_122: -1721295218
+      Spearwoman-Sheet_123: 1244949643
+      Spearwoman-Sheet_124: 587058693
+      Spearwoman-Sheet_125: -1270099303
+      Spearwoman-Sheet_126: 1567838990
+      Spearwoman-Sheet_127: 1159894410
+      Spearwoman-Sheet_128: 1490088579
+      Spearwoman-Sheet_129: -747807914
+      Spearwoman-Sheet_13: -1189708149
+      Spearwoman-Sheet_130: 993047595
+      Spearwoman-Sheet_131: -1308746091
+      Spearwoman-Sheet_132: -1628759309
+      Spearwoman-Sheet_133: 1990219958
+      Spearwoman-Sheet_134: 452069979
+      Spearwoman-Sheet_135: -482754907
+      Spearwoman-Sheet_136: -294152680
+      Spearwoman-Sheet_137: -1966607491
+      Spearwoman-Sheet_138: -780512081
+      Spearwoman-Sheet_139: -1075842502
+      Spearwoman-Sheet_14: -293822443
+      Spearwoman-Sheet_140: 2079590321
+      Spearwoman-Sheet_141: 908712158
+      Spearwoman-Sheet_142: -408423059
+      Spearwoman-Sheet_143: 843826731
+      Spearwoman-Sheet_144: 1690310922
+      Spearwoman-Sheet_145: 1407675152
+      Spearwoman-Sheet_146: -1576629463
+      Spearwoman-Sheet_147: 1771291814
+      Spearwoman-Sheet_148: 729216189
+      Spearwoman-Sheet_149: 1698182231
+      Spearwoman-Sheet_15: -902846222
+      Spearwoman-Sheet_150: -6622666
+      Spearwoman-Sheet_151: -1201734465
+      Spearwoman-Sheet_152: 599489854
+      Spearwoman-Sheet_153: -1713398606
+      Spearwoman-Sheet_154: 1580394987
+      Spearwoman-Sheet_155: -2009733667
+      Spearwoman-Sheet_156: -1944926836
+      Spearwoman-Sheet_157: -2116299215
+      Spearwoman-Sheet_158: 1806546265
+      Spearwoman-Sheet_159: -1336046401
+      Spearwoman-Sheet_16: -1710149324
+      Spearwoman-Sheet_160: -29059744
+      Spearwoman-Sheet_161: -519378039
+      Spearwoman-Sheet_162: -2063199239
+      Spearwoman-Sheet_163: -95498953
+      Spearwoman-Sheet_164: -605043313
+      Spearwoman-Sheet_165: -2000300727
+      Spearwoman-Sheet_166: 392318516
+      Spearwoman-Sheet_167: 1783046316
+      Spearwoman-Sheet_168: 627109195
+      Spearwoman-Sheet_169: -579040939
+      Spearwoman-Sheet_17: 1137025716
+      Spearwoman-Sheet_170: -539870208
+      Spearwoman-Sheet_171: -1880274879
+      Spearwoman-Sheet_172: 1087455657
+      Spearwoman-Sheet_173: -769082409
+      Spearwoman-Sheet_174: 1309475473
+      Spearwoman-Sheet_175: -1887305927
+      Spearwoman-Sheet_176: -1636967646
+      Spearwoman-Sheet_177: -459064755
+      Spearwoman-Sheet_178: -1916976801
+      Spearwoman-Sheet_179: 1551945405
+      Spearwoman-Sheet_18: -277388294
+      Spearwoman-Sheet_180: 1593765711
+      Spearwoman-Sheet_181: 726137236
+      Spearwoman-Sheet_182: -510519944
+      Spearwoman-Sheet_183: 1953829144
+      Spearwoman-Sheet_184: -475284727
+      Spearwoman-Sheet_185: -1803362353
+      Spearwoman-Sheet_186: -820280361
+      Spearwoman-Sheet_187: 424304689
+      Spearwoman-Sheet_188: 279501624
+      Spearwoman-Sheet_189: 719547121
+      Spearwoman-Sheet_19: -1401275958
+      Spearwoman-Sheet_190: 114366492
+      Spearwoman-Sheet_191: 7392991
+      Spearwoman-Sheet_192: -1023104480
+      Spearwoman-Sheet_2: 219497065
+      Spearwoman-Sheet_20: -1673958726
+      Spearwoman-Sheet_21: -1616772503
+      Spearwoman-Sheet_22: -628154505
+      Spearwoman-Sheet_23: 1124320063
+      Spearwoman-Sheet_24: 1812108279
+      Spearwoman-Sheet_25: -1995202482
+      Spearwoman-Sheet_26: -1661297819
+      Spearwoman-Sheet_27: 479095676
+      Spearwoman-Sheet_28: -1402280823
+      Spearwoman-Sheet_29: -637037402
+      Spearwoman-Sheet_3: -1471403092
+      Spearwoman-Sheet_30: 259953181
+      Spearwoman-Sheet_31: 2086543322
+      Spearwoman-Sheet_32: -1928697591
+      Spearwoman-Sheet_33: 1029453713
+      Spearwoman-Sheet_34: -1488588212
+      Spearwoman-Sheet_35: 2105994379
+      Spearwoman-Sheet_36: 725660982
+      Spearwoman-Sheet_37: -282003119
+      Spearwoman-Sheet_38: -229638441
+      Spearwoman-Sheet_39: 765261282
+      Spearwoman-Sheet_4: -1084776398
+      Spearwoman-Sheet_40: -934922441
+      Spearwoman-Sheet_41: -1159196446
+      Spearwoman-Sheet_42: -948613307
+      Spearwoman-Sheet_43: -2107735963
+      Spearwoman-Sheet_44: -881857169
+      Spearwoman-Sheet_45: 2086171358
+      Spearwoman-Sheet_46: 1697155540
+      Spearwoman-Sheet_47: -1459493764
+      Spearwoman-Sheet_48: 197524590
+      Spearwoman-Sheet_49: -838004027
+      Spearwoman-Sheet_5: 66157422
+      Spearwoman-Sheet_50: -1719693461
+      Spearwoman-Sheet_51: -1480926415
+      Spearwoman-Sheet_52: 290725351
+      Spearwoman-Sheet_53: -1305805216
+      Spearwoman-Sheet_54: -1825893590
+      Spearwoman-Sheet_55: -2046598110
+      Spearwoman-Sheet_56: -697817774
+      Spearwoman-Sheet_57: -1215222690
+      Spearwoman-Sheet_58: 627730369
+      Spearwoman-Sheet_59: 2068925071
+      Spearwoman-Sheet_6: 1370915358
+      Spearwoman-Sheet_60: 2114217991
+      Spearwoman-Sheet_61: -1400382725
+      Spearwoman-Sheet_62: 1585529688
+      Spearwoman-Sheet_63: 1502715696
+      Spearwoman-Sheet_64: 1636193999
+      Spearwoman-Sheet_65: -1345922250
+      Spearwoman-Sheet_66: 1164090932
+      Spearwoman-Sheet_67: 262621653
+      Spearwoman-Sheet_68: 283026123
+      Spearwoman-Sheet_69: 1234695760
+      Spearwoman-Sheet_7: -392134646
+      Spearwoman-Sheet_70: 1815600977
+      Spearwoman-Sheet_71: -473265127
+      Spearwoman-Sheet_72: -1383658186
+      Spearwoman-Sheet_73: 637630348
+      Spearwoman-Sheet_74: 1905006455
+      Spearwoman-Sheet_75: 1103524146
+      Spearwoman-Sheet_76: -673531043
+      Spearwoman-Sheet_77: -1964908310
+      Spearwoman-Sheet_78: 157091179
+      Spearwoman-Sheet_79: 727646065
+      Spearwoman-Sheet_8: 967543352
+      Spearwoman-Sheet_80: -948793097
+      Spearwoman-Sheet_81: 870844933
+      Spearwoman-Sheet_82: -1775141073
+      Spearwoman-Sheet_83: -1888784558
+      Spearwoman-Sheet_84: -1881612797
+      Spearwoman-Sheet_85: -1335225973
+      Spearwoman-Sheet_86: -143032902
+      Spearwoman-Sheet_87: 493741099
+      Spearwoman-Sheet_88: 1743026644
+      Spearwoman-Sheet_89: 514599892
+      Spearwoman-Sheet_9: -999369551
+      Spearwoman-Sheet_90: -1254716469
+      Spearwoman-Sheet_91: -1622586958
+      Spearwoman-Sheet_92: 1377178260
+      Spearwoman-Sheet_93: 1271012206
+      Spearwoman-Sheet_94: 671871098
+      Spearwoman-Sheet_95: 1490157059
+      Spearwoman-Sheet_96: -1080399313
+      Spearwoman-Sheet_97: -1538629166
+      Spearwoman-Sheet_98: 2127248270
+      Spearwoman-Sheet_99: 1644310359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

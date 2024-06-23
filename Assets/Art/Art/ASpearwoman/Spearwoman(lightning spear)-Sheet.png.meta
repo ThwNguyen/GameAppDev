@@ -1,0 +1,4386 @@
+fileFormatVersion: 2
+guid: 2e5454c6c80ae284d968bd5a53627253
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748632c346dcdc14cb3d23897be22842
+      internalID: -438000588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5ef6f1bd0d45438469f01bfcd93ff
+      internalID: -851280253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e5ac8e61fc324b8cb98360e35da0b
+      internalID: 1443413854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2b8f724b5e68443b09a4a435992ff5
+      internalID: 148181636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a60f61e78f214c9bf88913b2d7146
+      internalID: -1344516194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5db471877e03429d27c783ccff704
+      internalID: 936244634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec11c114e816947a7348fe5ec7f9c6
+      internalID: 1470310083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2760
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e5335683b5a14a8953cc84c1d6dd5
+      internalID: -1644345217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82dab074411e0848b069810f6d1dfb5
+      internalID: 554942056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791d93d1114a0b4db780b37c0f50036
+      internalID: 893770287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e3c62efa89dd4bb21261e793f1ba6
+      internalID: -510179019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7974ccea9fc8ba47a616627a7629210
+      internalID: 1414274164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300d9ac1ab3ca443bf6c14d39959b2e
+      internalID: -777466201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a00a2022b3b5f4a8ab918038a2e8a7
+      internalID: 1612211858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f38e23207c0247b0848ecc0188143
+      internalID: -463735870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2645
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038009bf04f085a4bb4d6f14ef0f8daf
+      internalID: 1750660401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7cdfa52018624b98228abc1d57a84
+      internalID: 1876031757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff2f4534c5e60448ffd71cceaf5200
+      internalID: -483979389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f2dba8c506f349b2efb14ce023e0e
+      internalID: 672171261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e29249c8983dd54eb334fd02e893142
+      internalID: -1730092318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086aa6316d04634ab3fbf0a3fd718ae
+      internalID: 642764778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47d7f4283e2db4998e50afe128a92e
+      internalID: 1867855658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6530b2c85d9a3d04596eeed425932188
+      internalID: 59520768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2530
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211cd2a784125345b1d4d7e47993eef
+      internalID: 1887188953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e362d62b85e345b20dc437453c3ab
+      internalID: 16704145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a27613e44c31c4a92cd7f9b791db1b
+      internalID: -1110373992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c6140dbd4dd1c47b697d8c8eccadb6
+      internalID: 1147518610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b93be957e7c85943848f64ef44a450f
+      internalID: -201105398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3446a1bd3b561aa408793ca77ff13b19
+      internalID: 1236065539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3029bdd9ebbe646a35bb5d840a80c8
+      internalID: 789330346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcccf124790bf4ca09dc73806973fe
+      internalID: 1800568623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2415
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d578c507db9d1644a2441369bd6094e
+      internalID: -499436146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe209a3fde6e843b6a135d19527373
+      internalID: 1320194647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92260d4e87cca34a9a13db78339c1d8
+      internalID: -1504628893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336c9598a07cd1b4ba01ce8c9ce1eb2d
+      internalID: 428248035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db781b11343dc5b4c9c85c9efd6fc80d
+      internalID: 5537129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd19d2bc7f8714469523eb04082b396
+      internalID: -217585393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bfae03aac38c04198134eed5f00ebe
+      internalID: 893826250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db82b274013aab4b9d3c719c1d98e58
+      internalID: -1863748990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17792d9a322b045a2dff7db250b9a9
+      internalID: -284897073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2300
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0131d422aa05be049b39ef70b7c13763
+      internalID: 1695376116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533a72b64a4a4ff4983b02946eee8b0b
+      internalID: 296250462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d6da0dee628546894ba573458f4e8
+      internalID: 931486074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d134ba974bcdf42abd20d0eb77b442
+      internalID: 2046659276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273a8352016f90428374ad0c726cc03
+      internalID: 1043388880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2185
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4cc5eec19ae5d46bc11217e1ffeedf
+      internalID: -1649103724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c413b5fbc158eff41875c4343429ebec
+      internalID: -773031538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93773f8b5fcba14a875fb2b2e4e4d35
+      internalID: -128389308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2070
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59b6c5991b717479d221086009f1a0
+      internalID: -1461360848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9d07f28e91bae4a8a1d96a9e2e1b7e
+      internalID: 1808323487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87ebd55bdd5a64196cc9dee4938619
+      internalID: 603078827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1955
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdfae1b6550c0a4dad2659d6f0ee401
+      internalID: -368638495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019b70f890a72048b3873228cae563a
+      internalID: -1370295864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c8a9771f1ab04dbdf30b7609eee22
+      internalID: -1655372995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1840
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779df573c6fd0424192d48c8dd33c6fc
+      internalID: 1823842943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32f057df877a640be35f4cc00c94d3
+      internalID: 1489661165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f86036c9b4263541bb29a8711b2246a
+      internalID: 1933656383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95830d477f0d38f498745ad7a2309cdc
+      internalID: -1147584691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f673f41b78100744b3459d93d334828
+      internalID: 636389928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde81e1001e1f3448092b654f89e0c8
+      internalID: 467090373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390f0093998015488da9db4662822bf
+      internalID: -1892077821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f83260e9568e4ab1fe703c3c38539
+      internalID: 733292929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1725
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f1e03c67cb1c4b81efc313ed445b7
+      internalID: -540103409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a529b29f98d44a86d40ed24ab9281
+      internalID: -1777116666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50877adc93cf742ad282197d311667
+      internalID: -2049227963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b4e8e3712c21439219c18029d5411
+      internalID: -970850508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eaebbc44bfbf3479a87281940fe6e9
+      internalID: -728501670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1610
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4bd9593becd84db79a0e078f4eff1
+      internalID: 2051583249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804625929ab1dfe408340956e438f331
+      internalID: 142676391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f31b195b719c3c4d81e2388b5035217
+      internalID: -274301932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3cff5bbc3b5c4096801943a353bfd
+      internalID: 16547343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5195afddf115e4d97b1d03fd3d7945
+      internalID: 610757744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1495
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c73fc99d820fd4b8f82e19904abaca
+      internalID: 160054913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc4d299b515114a8ebc202b2dd8e64
+      internalID: 441847467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01651fbbf0ffdb1498d4067037e77f88
+      internalID: 19188961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5c610ef43f7243a3a8637ee1357ba
+      internalID: -254281784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70097a4a0ed0e6f409d1cbc7b8f13d18
+      internalID: -1159033304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078212d0b4845eb4495917b77b01b1bc
+      internalID: -571455336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1380
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ac63ba66665c4fb176faddfe21867
+      internalID: 903599150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd48f1bfbe91244cb61bc34762c897e
+      internalID: 1963319082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f2140bf270d2468380d2d3b7b9ea8
+      internalID: -759810447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419ba0c6cde19a4089ae4e0c81839e9
+      internalID: 376171944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48867510bbc5cdb4bade8e4230b575a5
+      internalID: 155437771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651dbdcbab3f59f45ac714837dcbaf7f
+      internalID: -292005590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77e782e9caecc744b4de7e42c0dd453
+      internalID: 1791834281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ded31d568691847a427b6c3413eb85
+      internalID: 1915050916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b957014730405046974ce4589ef57f0
+      internalID: 1900554972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe127ea2d9d1f7429ebecb8da8c45da
+      internalID: 1708422077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad25692cf360aa4ca53f581c4479fdb
+      internalID: -750069485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0933e0d8548e74bb8845abef7e7f48
+      internalID: 2057940499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082249e59f44a4f42bbaa1199a6ee84c
+      internalID: 2071048450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33485aa910356224d953f16d10155b02
+      internalID: -1887439066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1265
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48673d43a5b1fe34ab7b941079aafff1
+      internalID: 1615316267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1c8f47d94fdd4298b1fe91b7df050
+      internalID: -187177464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8ed44df131df489f641d5d4e1935d
+      internalID: 1272129706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081d11b5caa4f84480613e662a711c3
+      internalID: -949768149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7e359a8c3a2647b25c4cb56f810b8
+      internalID: 1988166802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c21054820022c409c741177af7d542
+      internalID: 23477149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cb70e88a56e5f43b3d4f3b0a8d5010
+      internalID: -321833132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088eaf85f3b196e458e4e1527ec9b30a
+      internalID: -153273895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58316c52e51a6f49a163b402b1aa296
+      internalID: 447203553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751663f49782e3e4ea4f80ab1bb821d9
+      internalID: -1437717691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19042dd0065dce848ac0e8049dc4766b
+      internalID: 1000941732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1150
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe527be179581439aafbae2e451c26
+      internalID: 906709754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28140e4c7badc445bcddad8306b7895
+      internalID: -862295571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b96c398e08984eb0fac4390734377
+      internalID: -1594509466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b325e09f175c1409f86e7313922b63
+      internalID: 66766802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f6dbf622beaf4faf8e27e663dc87f
+      internalID: 1057958904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0d16b7cc10304986e73a6e37a84eb
+      internalID: 1832181077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3f150264f2264c8f36bfec5af0347
+      internalID: 2105499230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9c0923b8c2ff64caaf05c671387275
+      internalID: 330919683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616353d5f8b7a04ea975db1a89cd1f9
+      internalID: 1025201611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e353fe913b5c2478669df5804db8e4
+      internalID: -564801662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b2c6345bef4c40a3926bd99c76c40
+      internalID: 46980122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a33204b7a4cb94eabb8793ce892f51
+      internalID: 593441108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e4c3fe3f394142a92f31140d42f15
+      internalID: -2063929201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e86acb26e30a4c81df439e35a735d
+      internalID: -2071493862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc46c1d249ef2a429496bff5d9e07d0
+      internalID: 1967659343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e36124d58998488b5394e8442ea5d
+      internalID: 1030477456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839c6a453e7d404aa56f13658268821
+      internalID: -1971206809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173baecdae820fb44801f3179dc7fa41
+      internalID: -115788422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1314a96d4cc842845954fd3ababe1
+      internalID: -1506853546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfecc9f7257cb343a0b32164632fe27
+      internalID: 1689727383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2924c30c2a0ab4781575fe9090ac8b
+      internalID: 2014371391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e696e8ae67ed54aa7e8650c280dab8
+      internalID: -1281955929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1035
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5592a3a60bac804aa481d1407227fd0
+      internalID: 872333651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2af4e230fd1f4282f097e2133d0d9
+      internalID: 1660563169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039a20f4d8ebac42b575e337911357f
+      internalID: -2098436142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38f69b38ea8ce4cb9ad3ef2b248a98
+      internalID: 486353492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57612cecc3324cf4d9108386bce59c44
+      internalID: 1831843503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b2919bbbdd1b498e6cf65d9d3acee
+      internalID: -1822574133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae6eb883f2c2345906d53fe80fc135
+      internalID: -1308860931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e8f74b56a5bd42bd50bc67c0b4848
+      internalID: -672192412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0db5c4869c8b46924a465886763bc
+      internalID: -2107478518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f8dd30c2472b4fbf1e6db485e40ff
+      internalID: 300011155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b1a24295549744bed24fe03b5ed82
+      internalID: 943341841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68cc56d33e66f48b3f0fb70f67820c
+      internalID: -2058285013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484072bca0ee3a4479ee938f97f4333c
+      internalID: 1182841476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe66078769f4e748b88a8a1baa9104c
+      internalID: -290246044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4865c9966aed48bfcdd0835bf676c
+      internalID: 1423556660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b432938043a6438bf98cb6cc2a759
+      internalID: -1202663012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 920
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d8770495d31843a50bad626784b57
+      internalID: -1091855626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf895fb075cf8624792d03d338f0f7cc
+      internalID: -633708117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af7325a0a639d4cb8c2fed732ad26c
+      internalID: 439468762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bffb931cdbb9d4f8415e2088e27b23
+      internalID: 772637909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 805
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680d3b2f1cd36842936c8fec77a0e5c
+      internalID: 1590851801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e7dea80c8aad54fafabc68680773c8
+      internalID: -1502022520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6317895ec8e046a546775f8e85f8e
+      internalID: 2096856458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f0bdfa5de3c4e44911627563604d97
+      internalID: -1339262853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a783f187f2639b479fccd4830a30467
+      internalID: 244492556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dba7cc9d9fc0a48b4093cde969d1da
+      internalID: 299004396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1fc720b8b17ed4182c8777a85a85a4
+      internalID: -407141460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87260d8329738404caea9bd2e7f5e9ff
+      internalID: -1628071000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 690
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099441059aaf044abb6e785c879b251
+      internalID: 838412368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c2a80d84e25f4cae18e793a6940f7
+      internalID: -1168323377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0514d362765604ca57b8f3bccc74e6
+      internalID: -1170566230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb996de9beffe4986b318aecb21082
+      internalID: 1977445343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc420306afbf2724381bd7319bc07a6e
+      internalID: 855724723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9078584cf1c34ab123c0de52a0c00
+      internalID: 103560094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995123943bd839048ba83f7cae620e7a
+      internalID: 1273389028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d394ddbd20c7d44e8b89b1123006689
+      internalID: 45338423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 575
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58df9f22fc0204188f30e79e1e7c1c
+      internalID: 1291554738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f3c10e398e8c498c914c6d6e398ec
+      internalID: -1787929144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c62632455db94e97052e65de4f43b
+      internalID: -680033809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730344a734b3fe14389ddfb753cdc693
+      internalID: 210749274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43084f813690ac0448fa99f0e5a35070
+      internalID: 1294955597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 460
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb8bb45595c294981872feeb1047fe
+      internalID: 747534003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c4e18398c08344a5e8460d16e83a0
+      internalID: -75823240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d141f6a4402c634f9db6c823acfde68
+      internalID: -793093749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237033d8719ea1247908b9e758461a1a
+      internalID: -1172351597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69fefb1a95ce84db56f3359f1d3c90
+      internalID: 106119490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2968beb19ba0418f2581e27b0a715
+      internalID: 184046168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 345
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56f70ca242f684a8eb7f39dd29ef80
+      internalID: -159861501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736e2b4233387ae4d952357aeaf75f65
+      internalID: -1756782865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dffbae7ba971241b4ec23f7a8aaec7
+      internalID: -78311910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3775163418b724f8430fd215f6083c
+      internalID: -1451583812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bae95f2a2a465d4fa22f3f659a25e2e
+      internalID: -1498840874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91948f89039564c8160a519fa72171
+      internalID: 1868176405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af31c570ab65246a22630c4a9dfb30
+      internalID: -1635127521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 230
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656ff3cd4c7b744895cf22828202fc0
+      internalID: -1723069290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a8e084547197245936266e894e6b65
+      internalID: -2031414582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7bef5f953a5314fa4729569e4d7958
+      internalID: 1764499260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27723e6002525af4c9524c09c9a8e225
+      internalID: 1776684794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 115
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c48738a24a4b42b9d6bc00001f99c
+      internalID: 525270346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59731c37c97d928409de2a1464050b23
+      internalID: -1643305437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8b4bc7109e3f488ba0a5a9fd12de4
+      internalID: 905692134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7cf5cc7cb2f11458548a4f70532b99
+      internalID: 1295702760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17fa30d1bf747746aa6af238fbcfdea
+      internalID: 1654599537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4016203b873a47bf149591bf563a2
+      internalID: -710442830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10180d9ac7bd8e246a82dbaa1eb7c758
+      internalID: -1035779010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac7ecbbd174e441b7771ab6e797508
+      internalID: 1828901908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687aa6b7257b8044b0b0fb696bf5a6d
+      internalID: 1448068746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spearwoman(lightning spear)-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc89cf3cffa834ea2629ed03d76416
+      internalID: 1739766835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spearwoman(lightning spear)-Sheet_0: -438000588
+      Spearwoman(lightning spear)-Sheet_1: -851280253
+      Spearwoman(lightning spear)-Sheet_10: -510179019
+      Spearwoman(lightning spear)-Sheet_100: 447203553
+      Spearwoman(lightning spear)-Sheet_101: -1437717691
+      Spearwoman(lightning spear)-Sheet_102: 1000941732
+      Spearwoman(lightning spear)-Sheet_103: 906709754
+      Spearwoman(lightning spear)-Sheet_104: -862295571
+      Spearwoman(lightning spear)-Sheet_105: -1594509466
+      Spearwoman(lightning spear)-Sheet_106: 66766802
+      Spearwoman(lightning spear)-Sheet_107: 1057958904
+      Spearwoman(lightning spear)-Sheet_108: 1832181077
+      Spearwoman(lightning spear)-Sheet_109: 2105499230
+      Spearwoman(lightning spear)-Sheet_11: 1414274164
+      Spearwoman(lightning spear)-Sheet_110: 330919683
+      Spearwoman(lightning spear)-Sheet_111: 1025201611
+      Spearwoman(lightning spear)-Sheet_112: -564801662
+      Spearwoman(lightning spear)-Sheet_113: 46980122
+      Spearwoman(lightning spear)-Sheet_114: 593441108
+      Spearwoman(lightning spear)-Sheet_115: -2063929201
+      Spearwoman(lightning spear)-Sheet_116: -2071493862
+      Spearwoman(lightning spear)-Sheet_117: 1967659343
+      Spearwoman(lightning spear)-Sheet_118: 1030477456
+      Spearwoman(lightning spear)-Sheet_119: -1971206809
+      Spearwoman(lightning spear)-Sheet_12: -777466201
+      Spearwoman(lightning spear)-Sheet_120: -115788422
+      Spearwoman(lightning spear)-Sheet_121: -1506853546
+      Spearwoman(lightning spear)-Sheet_122: 1689727383
+      Spearwoman(lightning spear)-Sheet_123: 2014371391
+      Spearwoman(lightning spear)-Sheet_124: -1281955929
+      Spearwoman(lightning spear)-Sheet_125: 872333651
+      Spearwoman(lightning spear)-Sheet_126: 1660563169
+      Spearwoman(lightning spear)-Sheet_127: -2098436142
+      Spearwoman(lightning spear)-Sheet_128: 486353492
+      Spearwoman(lightning spear)-Sheet_129: 1831843503
+      Spearwoman(lightning spear)-Sheet_13: 1612211858
+      Spearwoman(lightning spear)-Sheet_130: -1822574133
+      Spearwoman(lightning spear)-Sheet_131: -1308860931
+      Spearwoman(lightning spear)-Sheet_132: -672192412
+      Spearwoman(lightning spear)-Sheet_133: -2107478518
+      Spearwoman(lightning spear)-Sheet_134: 300011155
+      Spearwoman(lightning spear)-Sheet_135: 943341841
+      Spearwoman(lightning spear)-Sheet_136: -2058285013
+      Spearwoman(lightning spear)-Sheet_137: 1182841476
+      Spearwoman(lightning spear)-Sheet_138: -290246044
+      Spearwoman(lightning spear)-Sheet_139: 1423556660
+      Spearwoman(lightning spear)-Sheet_14: -463735870
+      Spearwoman(lightning spear)-Sheet_140: -1202663012
+      Spearwoman(lightning spear)-Sheet_141: -1091855626
+      Spearwoman(lightning spear)-Sheet_142: -633708117
+      Spearwoman(lightning spear)-Sheet_143: 439468762
+      Spearwoman(lightning spear)-Sheet_144: 772637909
+      Spearwoman(lightning spear)-Sheet_145: 1590851801
+      Spearwoman(lightning spear)-Sheet_146: -1502022520
+      Spearwoman(lightning spear)-Sheet_147: 2096856458
+      Spearwoman(lightning spear)-Sheet_148: -1339262853
+      Spearwoman(lightning spear)-Sheet_149: 244492556
+      Spearwoman(lightning spear)-Sheet_15: 1750660401
+      Spearwoman(lightning spear)-Sheet_150: 299004396
+      Spearwoman(lightning spear)-Sheet_151: -407141460
+      Spearwoman(lightning spear)-Sheet_152: -1628071000
+      Spearwoman(lightning spear)-Sheet_153: 838412368
+      Spearwoman(lightning spear)-Sheet_154: -1168323377
+      Spearwoman(lightning spear)-Sheet_155: -1170566230
+      Spearwoman(lightning spear)-Sheet_156: 1977445343
+      Spearwoman(lightning spear)-Sheet_157: 855724723
+      Spearwoman(lightning spear)-Sheet_158: 103560094
+      Spearwoman(lightning spear)-Sheet_159: 1273389028
+      Spearwoman(lightning spear)-Sheet_16: 1876031757
+      Spearwoman(lightning spear)-Sheet_160: 45338423
+      Spearwoman(lightning spear)-Sheet_161: 1291554738
+      Spearwoman(lightning spear)-Sheet_162: -1787929144
+      Spearwoman(lightning spear)-Sheet_163: -680033809
+      Spearwoman(lightning spear)-Sheet_164: 210749274
+      Spearwoman(lightning spear)-Sheet_165: 1294955597
+      Spearwoman(lightning spear)-Sheet_166: 747534003
+      Spearwoman(lightning spear)-Sheet_167: -75823240
+      Spearwoman(lightning spear)-Sheet_168: -793093749
+      Spearwoman(lightning spear)-Sheet_169: -1172351597
+      Spearwoman(lightning spear)-Sheet_17: -483979389
+      Spearwoman(lightning spear)-Sheet_170: 106119490
+      Spearwoman(lightning spear)-Sheet_171: 184046168
+      Spearwoman(lightning spear)-Sheet_172: -159861501
+      Spearwoman(lightning spear)-Sheet_173: -1756782865
+      Spearwoman(lightning spear)-Sheet_174: -78311910
+      Spearwoman(lightning spear)-Sheet_175: -1451583812
+      Spearwoman(lightning spear)-Sheet_176: -1498840874
+      Spearwoman(lightning spear)-Sheet_177: 1868176405
+      Spearwoman(lightning spear)-Sheet_178: -1635127521
+      Spearwoman(lightning spear)-Sheet_179: -1723069290
+      Spearwoman(lightning spear)-Sheet_18: 672171261
+      Spearwoman(lightning spear)-Sheet_180: -2031414582
+      Spearwoman(lightning spear)-Sheet_181: 1764499260
+      Spearwoman(lightning spear)-Sheet_182: 1776684794
+      Spearwoman(lightning spear)-Sheet_183: 525270346
+      Spearwoman(lightning spear)-Sheet_184: -1643305437
+      Spearwoman(lightning spear)-Sheet_185: 905692134
+      Spearwoman(lightning spear)-Sheet_186: 1295702760
+      Spearwoman(lightning spear)-Sheet_187: 1654599537
+      Spearwoman(lightning spear)-Sheet_188: -710442830
+      Spearwoman(lightning spear)-Sheet_189: -1035779010
+      Spearwoman(lightning spear)-Sheet_19: -1730092318
+      Spearwoman(lightning spear)-Sheet_190: 1828901908
+      Spearwoman(lightning spear)-Sheet_191: 1448068746
+      Spearwoman(lightning spear)-Sheet_192: 1739766835
+      Spearwoman(lightning spear)-Sheet_2: 1443413854
+      Spearwoman(lightning spear)-Sheet_20: 642764778
+      Spearwoman(lightning spear)-Sheet_21: 1867855658
+      Spearwoman(lightning spear)-Sheet_22: 59520768
+      Spearwoman(lightning spear)-Sheet_23: 1887188953
+      Spearwoman(lightning spear)-Sheet_24: 16704145
+      Spearwoman(lightning spear)-Sheet_25: -1110373992
+      Spearwoman(lightning spear)-Sheet_26: 1147518610
+      Spearwoman(lightning spear)-Sheet_27: -201105398
+      Spearwoman(lightning spear)-Sheet_28: 1236065539
+      Spearwoman(lightning spear)-Sheet_29: 789330346
+      Spearwoman(lightning spear)-Sheet_3: 148181636
+      Spearwoman(lightning spear)-Sheet_30: 1800568623
+      Spearwoman(lightning spear)-Sheet_31: -499436146
+      Spearwoman(lightning spear)-Sheet_32: 1320194647
+      Spearwoman(lightning spear)-Sheet_33: -1504628893
+      Spearwoman(lightning spear)-Sheet_34: 428248035
+      Spearwoman(lightning spear)-Sheet_35: 5537129
+      Spearwoman(lightning spear)-Sheet_36: -217585393
+      Spearwoman(lightning spear)-Sheet_37: 893826250
+      Spearwoman(lightning spear)-Sheet_38: -1863748990
+      Spearwoman(lightning spear)-Sheet_39: -284897073
+      Spearwoman(lightning spear)-Sheet_4: -1344516194
+      Spearwoman(lightning spear)-Sheet_40: 1695376116
+      Spearwoman(lightning spear)-Sheet_41: 296250462
+      Spearwoman(lightning spear)-Sheet_42: 931486074
+      Spearwoman(lightning spear)-Sheet_43: 2046659276
+      Spearwoman(lightning spear)-Sheet_44: 1043388880
+      Spearwoman(lightning spear)-Sheet_45: -1649103724
+      Spearwoman(lightning spear)-Sheet_46: -773031538
+      Spearwoman(lightning spear)-Sheet_47: -128389308
+      Spearwoman(lightning spear)-Sheet_48: -1461360848
+      Spearwoman(lightning spear)-Sheet_49: 1808323487
+      Spearwoman(lightning spear)-Sheet_5: 936244634
+      Spearwoman(lightning spear)-Sheet_50: 603078827
+      Spearwoman(lightning spear)-Sheet_51: -368638495
+      Spearwoman(lightning spear)-Sheet_52: -1370295864
+      Spearwoman(lightning spear)-Sheet_53: -1655372995
+      Spearwoman(lightning spear)-Sheet_54: 1823842943
+      Spearwoman(lightning spear)-Sheet_55: 1489661165
+      Spearwoman(lightning spear)-Sheet_56: 1933656383
+      Spearwoman(lightning spear)-Sheet_57: -1147584691
+      Spearwoman(lightning spear)-Sheet_58: 636389928
+      Spearwoman(lightning spear)-Sheet_59: 467090373
+      Spearwoman(lightning spear)-Sheet_6: 1470310083
+      Spearwoman(lightning spear)-Sheet_60: -1892077821
+      Spearwoman(lightning spear)-Sheet_61: 733292929
+      Spearwoman(lightning spear)-Sheet_62: -540103409
+      Spearwoman(lightning spear)-Sheet_63: -1777116666
+      Spearwoman(lightning spear)-Sheet_64: -2049227963
+      Spearwoman(lightning spear)-Sheet_65: -970850508
+      Spearwoman(lightning spear)-Sheet_66: -728501670
+      Spearwoman(lightning spear)-Sheet_67: 2051583249
+      Spearwoman(lightning spear)-Sheet_68: 142676391
+      Spearwoman(lightning spear)-Sheet_69: -274301932
+      Spearwoman(lightning spear)-Sheet_7: -1644345217
+      Spearwoman(lightning spear)-Sheet_70: 16547343
+      Spearwoman(lightning spear)-Sheet_71: 610757744
+      Spearwoman(lightning spear)-Sheet_72: 160054913
+      Spearwoman(lightning spear)-Sheet_73: 441847467
+      Spearwoman(lightning spear)-Sheet_74: 19188961
+      Spearwoman(lightning spear)-Sheet_75: -254281784
+      Spearwoman(lightning spear)-Sheet_76: -1159033304
+      Spearwoman(lightning spear)-Sheet_77: -571455336
+      Spearwoman(lightning spear)-Sheet_78: 903599150
+      Spearwoman(lightning spear)-Sheet_79: 1963319082
+      Spearwoman(lightning spear)-Sheet_8: 554942056
+      Spearwoman(lightning spear)-Sheet_80: -759810447
+      Spearwoman(lightning spear)-Sheet_81: 376171944
+      Spearwoman(lightning spear)-Sheet_82: 155437771
+      Spearwoman(lightning spear)-Sheet_83: -292005590
+      Spearwoman(lightning spear)-Sheet_84: 1791834281
+      Spearwoman(lightning spear)-Sheet_85: 1915050916
+      Spearwoman(lightning spear)-Sheet_86: 1900554972
+      Spearwoman(lightning spear)-Sheet_87: 1708422077
+      Spearwoman(lightning spear)-Sheet_88: -750069485
+      Spearwoman(lightning spear)-Sheet_89: 2057940499
+      Spearwoman(lightning spear)-Sheet_9: 893770287
+      Spearwoman(lightning spear)-Sheet_90: 2071048450
+      Spearwoman(lightning spear)-Sheet_91: -1887439066
+      Spearwoman(lightning spear)-Sheet_92: 1615316267
+      Spearwoman(lightning spear)-Sheet_93: -187177464
+      Spearwoman(lightning spear)-Sheet_94: 1272129706
+      Spearwoman(lightning spear)-Sheet_95: -949768149
+      Spearwoman(lightning spear)-Sheet_96: 1988166802
+      Spearwoman(lightning spear)-Sheet_97: 23477149
+      Spearwoman(lightning spear)-Sheet_98: -321833132
+      Spearwoman(lightning spear)-Sheet_99: -153273895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
